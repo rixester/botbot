@@ -3402,4 +3402,4 @@ bot.on('message', message=> {     let args = message.content.substring(prefix.le
 })
 
 
-bot.login(token);
+bot.login(process.env.token);
