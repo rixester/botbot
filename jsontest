@@ -1,0 +1,12 @@
+{
+  "ip": "xxxxxxxxx",
+  "hostname": "rixester",
+  "city": "Rio de Janeiro",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "",
+  "org": "AS28573 Claro NXT Telecomunicacoes Ltda",
+  "postal": "20000-000",
+  "timezone": "America/Sao_Paulo",
+  "readme": "https://ipinfo.io/missingauth"
+}
